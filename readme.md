@@ -2,7 +2,7 @@
 
 This is a resume template. The design is similar to the assignment template, but I made some modifications. 
 
-Full Demo Here
+[Full Demo Here](https://jordles.github.io/Per-Scholas-Assignment-Resume-Template-307/)
 
 ## Improvements
 
